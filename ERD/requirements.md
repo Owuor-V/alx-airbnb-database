@@ -31,8 +31,6 @@ Below is the visual representation of the database schema:
 
 ![Airbnb ERD](./airbnb_erd.png)  
 
-*(The `.drawio` source file is included in this directory for future edits.)*
-
 ---
 
 ## ✅ Notes
@@ -43,7 +41,3 @@ Below is the visual representation of the database schema:
 
 ---
 
-## 📂 Files in this Directory
-- `airbnb_erd.drawio` → Editable ER diagram (open with Draw.io).  
-- `airbnb_erd.png` → Exported diagram image for quick reference.  
-- `requirements.md` → Documentation (this file).  
