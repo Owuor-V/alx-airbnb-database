@@ -36,8 +36,3 @@ SELECT
 FROM users u
 FULL OUTER JOIN bookings b
     ON u.user_id = b.user_id;
-
--- If using MySQL (no FULL OUTER JOIN support), simulate with UNION
--- SELECT ... LEFT JOIN ...
--- UNION
--- SELECT ... RIGHT JOIN ...
